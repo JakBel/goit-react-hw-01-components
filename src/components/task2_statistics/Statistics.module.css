@@ -1,0 +1,35 @@
+.statisticsClass {
+    width: 500px;
+    background-color: white;
+    margin: 25px auto 25px;
+}
+
+.titleClass {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-transform: uppercase;
+    color: black;
+}
+
+.statListClass {
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    padding-left: 0;
+}
+
+.itemClass {
+    color: black;
+    padding: 20px 28px;
+    display: flex;
+    font-size: 20px;
+    flex-direction: column;
+}
+
+.percentageClass {
+    font-size: 24px;
+}
+
+.isHidden {
+    display: none;
+}

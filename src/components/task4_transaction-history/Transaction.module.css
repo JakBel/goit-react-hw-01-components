@@ -1,0 +1,25 @@
+.transactionHistoryClass {
+  margin: 25px auto;
+  background-color: white;
+}
+
+thead {
+  background-color: #0099ff;
+  padding-top: 25px;
+  color: white;
+  text-transform: uppercase;
+}
+
+th {
+  padding: 18px 80px;
+}
+
+tr:nth-child(even) {
+  background-color: #e6e6e6;
+}
+
+td {
+  padding: 18px 80px;
+  border: 1px solid darkgrey;
+  color: #737373;
+}
